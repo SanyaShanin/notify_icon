@@ -5,6 +5,8 @@ incr = 0.3;
 maxspeed = 14;
 if (!active) return;
 
+if (!instance_exists(h_goose)) exit;
+
 if (!fixed)
 if (DoJump()) {
 	if (place_meeting(x, y, h_goose)) {
