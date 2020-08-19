@@ -2,9 +2,8 @@
 //
 
 #include "stdafx.h"
-#include "windows.h"
-#include "stdio.h"
-#include "shellapi.h"
+#include <windows.h>
+#include <shellapi.h>
 #include <map>
 #include <string>
 #include <vector>

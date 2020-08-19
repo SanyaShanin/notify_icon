@@ -1,5 +1,5 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
   notify_icon.cpp
-c:\users\alexa\source\repos\notify_icon\notify_icon\notify_icon.cpp(191): warning C4244: =: преобразование "double" в "UINT", возможна потеря данных
-     Создается библиотека ..\..\..\..\Documents\GameMakerStudio2\jam_again_self\extensions\Extension1\notify_icon.lib и объект ..\..\..\..\Documents\GameMakerStudio2\jam_again_self\extensions\Extension1\notify_icon.exp
-  notify_icon.vcxproj -> C:\Users\alexa\source\repos\notify_icon\notify_icon\..\..\..\..\Documents\GameMakerStudio2\jam_again_self\extensions\Extension1\notify_icon.dll
+d:\projects\gms\notify_icon\notify_icon\notify_icon.cpp(190): warning C4244: =: преобразование "double" в "UINT", возможна потеря данных
+     ╤ючфрхЄё  сшсышюЄхър ..\notify_icon_yy\extensions\notify_icon\notify_icon.lib ш юс·хъЄ ..\notify_icon_yy\extensions\notify_icon\notify_icon.exp
+  notify_icon.vcxproj -> D:\projects\gms\notify_icon\notify_icon\..\notify_icon_yy\extensions\notify_icon\notify_icon.dll
