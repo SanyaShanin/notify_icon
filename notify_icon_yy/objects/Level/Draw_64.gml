@@ -1,0 +1,1 @@
+draw_surface_part_ext(application_surface, 0, 0, surface_get_width(application_surface), surface_get_height(application_surface)*448/768, 0, 448/768*window_get_height()*2, 1, -1, c_white, 0.2)
