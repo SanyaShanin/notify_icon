@@ -1,10 +1,9 @@
-Весь код в объекте o_game
-Он создаётся в комнате main
+all code in o_game
 
-Расширение и gml скрипт находятся в папке ext
+extension in "ext" folder
 
 new NotifyIcon()
-	SetMessage - создаёт сообщение при появлении
-	SetTip - создаёт подсказку иконке
-	Show - показать
-	Hide - скрыть
+	SetMessage - Create message on .Show()
+	SetTip - Create tip for icon
+	Show - show notify icon
+	Hide - hide notify icon

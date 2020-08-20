@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  stdafx.cpp
+  dllmain.cpp
+  notify_icon.cpp
+d:\projects\gms\notify_icon\notify_icon\notify_icon.cpp(190): warning C4244: =: преобразование "double" в "UINT", возможна потеря данных
+     Создается библиотека ..\notify_icon_yy\extensions\notify_icon\notify_icon.lib и объект ..\notify_icon_yy\extensions\notify_icon\notify_icon.exp
+  Создание кода
+  All 233 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  notify_icon.vcxproj -> D:\projects\gms\notify_icon\notify_icon\..\notify_icon_yy\extensions\notify_icon\notify_icon.dll
